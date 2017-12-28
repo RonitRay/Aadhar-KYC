@@ -5,6 +5,6 @@ Built as a fifth semester project for Object Oriented Programming using Java.
 Requires a MySQL server to be running on localhost using something like XAMPP/WAMP Server.
 Screenshots are as follows.
 
-![Register](1.png)
+![Register](1.PNG)
 
-![KYC](1.png)
+![KYC](1.PNG)
