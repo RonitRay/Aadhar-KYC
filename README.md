@@ -7,4 +7,4 @@ Screenshots are as follows.
 
 ![Register](1.PNG)
 
-![KYC](1.PNG)
+![KYC](2.PNG)
